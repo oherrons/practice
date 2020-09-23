@@ -1,1 +1,3 @@
 # practice
+
+code is fun
